@@ -1,3 +1,9 @@
+---
+layout: "post"
+title: "DJI_CV_CODE_READING_REPORT"
+date: "2018-09-27 19:32"
+---
+
 # DJI ROBOMASTER CV OPEN SOURCE CODE READING REPORT
 
                                                                   by cm
